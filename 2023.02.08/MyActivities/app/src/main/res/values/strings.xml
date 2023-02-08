@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyActivities</string>
+    <string name="go_to_second">Go To Second</string>
+    <string name="main_activity_title">Main Activity</string>
+    <string name="second_activity_title">Second Activity</string>
+    <string name="third_activity_title">Third Activity</string>
+    <string name="go_to_third">Go To Third</string>
+</resources>

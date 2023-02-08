@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyCalculator</string>
+    <string name="calculator">Calculator</string>
+    <string name="num1">First Number</string>
+    <string name="num2">Second Number</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="mult">*</string>
+    <string name="div">/</string>
+    <string name="result">Result:&#160;&#160;</string>
+    <string name="error_input">Error on number input</string>
+</resources>
