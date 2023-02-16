@@ -4,7 +4,9 @@ Repository create to share the content of ISYMED 2023 Android course.
 
 The hands-on can be seen on youtube playlist: https://www.youtube.com/playlist?list=PLkdMZhFG653TtwodEVIClR5PBlOiHHL6U
 
-Contact: mejoselli@gmail.com
+Contact: 
+- email: mejoselli@gmail.com
+- messenger: mjoselli
 
 # Final Project
 Create an Android Application that can be used for health
